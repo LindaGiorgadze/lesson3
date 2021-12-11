@@ -1,3 +1,18 @@
+/*@import url("//cdn.web-fonts.ge/fonts/bpg-nino-mtavruli/css/bpg-nino-mtavruli.min.css");*/
+
+.articleTitle {
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.navLi {
+	font-family: 'Corinthia';
+	font-size: 30px;
+	font-weight: bold;
+	font-style: italic;
+}
+
 .testImg {
 	width: 50%;
+}
+.active {
+	color: red;
 }
